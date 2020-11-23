@@ -1,0 +1,7 @@
+/* Styles go here */
+
+.app {
+    display:flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
